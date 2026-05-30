@@ -1,3 +1,4 @@
+<img width="3169" height="792" alt="banniere-linkedin-cihan-toprakci@2x" src="https://github.com/user-attachments/assets/cbdb76cb-41cb-4b3a-9f1a-e066dab1e441" />
 Salut, moi c'est Cihan 👋
 
 J'ai 18 ans et je crée des sites et des applications web en freelance, depuis la Haute-Savoie, juste à côté de Genève. Ce que j'aime, c'est prendre un projet du début à la fin : comprendre le besoin, soigner le design, écrire du code propre, puis le mettre en ligne pour de bon.
